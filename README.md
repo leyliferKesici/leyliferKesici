@@ -3,6 +3,9 @@
 - 💻 I upload the works that are important for my own development here. 
 - 📈 I am trying to put forward projects from different fields in order to be more clear in the field in which I want to progress.
 <p>
+
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
+
 <a href="https://github.com/leyliferKesici?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
