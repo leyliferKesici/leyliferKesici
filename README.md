@@ -4,6 +4,8 @@
 - 📈 I am trying to put forward projects from different fields in order to be more clear in the field in which I want to progress.
 <p>
 
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
+
 <a href="https://github.com/leyliferKesici?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
