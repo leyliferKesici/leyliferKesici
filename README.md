@@ -26,7 +26,11 @@
 <a href="https://instagram.com/leyl_fer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leylifer-kesici-b74a0237b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-                        <img width="100" height="100" alt="ben_animated" src="https://github.com/user-attachments/assets/927339c7-bf19-4a9c-bc34-b621b2df57ca" />
 
+</p>
+
+<p align="right">
+  <img width="100" height="100" alt="ben_animated" src="https://github.com/user-attachments/assets/927339c7-bf19-4a9c-bc34-b621b2df57ca"/>
+</p>
 
 
